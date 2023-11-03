@@ -1,6 +1,8 @@
 # Stopwatch Web Application
 This is a simple web-based stopwatch application that allows you to start, pause, and reset a timer.
 
+https://nitheesh-parkala.github.io/Stop-watch/
+
 # Features
 Start Button: Click the "start" button to begin the timer. The timer displays the elapsed time in the format HH:MM:SS.
 
